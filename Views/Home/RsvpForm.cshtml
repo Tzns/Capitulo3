@@ -1,0 +1,41 @@
+@model PartyInvites.Models.GuestResponse
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name = "viewport" content="width=device-width" />
+        <title>RSVPForm"</title>
+    </head>
+    <body>
+        <form asp-action="RsvpForm" method= "post">
+            <Div>
+                <label asp-for="Name">Your name:</label>
+                <input asp-for="Name" />
+            </Div>
+             <Div>
+                <label asp-for="Email">Your email:</label>
+                <input asp-for="Email" />
+            </Div>
+             <Div>
+                <label asp-for="Phone">Your phone:</label>
+                <input asp-for="Phone" />
+            </Div>
+            <div>
+               <label>Will you attend?</label>
+               <select asp-for="WillAttend">
+                   <option value="">Choose an option</option>
+                   <option value="true">Yes, i"ll be there</option>
+                   <option value="false">No, i can't come</option>
+               </select>
+            </div>
+            <button type="submit">Submit RSVP</button>
+        </form>      
+    </body>
+</html>
+
+@*O @MODEL ESPECIFICA QUE ESTE VIEW ESPERA RECEBER UM OBJETO DO GUEST RESPONSE.
+FOI DEFINIDO EM CADA LABEL UM INPUT PARA CADA PROPRIEDADE, CADA UM FOI ASSOCIADO 
+UTILIZANDO O ASP-FOR *@
