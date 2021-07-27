@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj": {}
+    "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj": {
+    "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj",
-        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\obj\\",
+        "projectPath": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+        "packagesPath": "C:\\Users\\thica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thica\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +37,18 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

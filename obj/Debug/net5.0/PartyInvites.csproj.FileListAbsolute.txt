@@ -82,3 +82,12 @@ C:\git\aspnetprobook\rsvp\capitulo3\obj\Debug\net5.0\PartyInvites.genruntimeconf
 C:\git\aspnetprobook\rsvp\capitulo3\obj\Debug\net5.0\PartyInvites.csproj.CopyComplete
 C:\git\aspnetprobook\rsvp\capitulo3\obj\Debug\net5.0\Razor\Views\Home\Thanks.cshtml.g.cs
 C:\git\aspnetprobook\rsvp\capitulo3\obj\Debug\net5.0\Razor\Views\Home\ListResponses.cshtml.g.cs
+C:\Users\thica\Desktop\Git\PartyInvites\partyinvites\obj\Debug\net5.0\Razor\Views\Home\ListResponses.cshtml.g.cs
+C:\Users\thica\Desktop\Git\PartyInvites\partyinvites\obj\Debug\net5.0\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Humanizer.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thica\Desktop\Git\PartyInvites\PartyInvites\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
