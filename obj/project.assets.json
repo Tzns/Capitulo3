@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thica\\.nuget\\packages\\": {}
+    "C:\\Users\\Thiago\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
-      "packagesPath": "C:\\Users\\thica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\obj\\",
+      "projectPath": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj",
+      "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\thica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

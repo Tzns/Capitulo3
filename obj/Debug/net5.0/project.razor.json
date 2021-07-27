@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+  "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\PartyInvites.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,53 @@
   "RootNamespace": "PartyInvites",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Home\\RsvpForm.cshtml",
       "TargetPath": "Views\\Home\\RsvpForm.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\thica\\Desktop\\Git\\PartyInvites\\PartyInvites\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Home\\ListResponses.cshtml",
+      "TargetPath": "Views\\Home\\ListResponses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\git\\aspnetprobook\\rsvp\\Capitulo3\\Views\\Home\\Thanks.cshtml",
+      "TargetPath": "Views\\Home\\Thanks.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zOI1xzYXT1s6Ob2ju3E74rZsYmS0Hku0J2RO4B1Y5zgCInlAwT+Dbdly5bF7/cWyIkIHrIyjD0swU5rvH/WNVw==",
+  "dgSpecHash": "4FWMKR3g/EBRI09IJSwuHBonVivaehlaYWGoPTereI7t882FZp0ZLdWjz9qsAvRsBEjPkrgURFnHJu0M0LLOow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thica\\Desktop\\Git\\partyinvites\\partyinvites\\PartyInvites.csproj",
+  "projectFilePath": "C:\\git\\aspnetprobook\\rsvp\\capitulo3\\PartyInvites.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
